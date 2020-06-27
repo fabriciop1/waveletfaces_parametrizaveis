@@ -1,0 +1,25 @@
+AR Faces 1296 iteracoes: level 3 + LDA 
+19200 mins approx - tempo total de analise
+
+Yale B 1296 iteracoes 10000 mins approx.
+Level 4 LDA
+
+Essex 1296 iteracoes 18291 mins approx
+level 5 PCA LDA
+
+GTech 1296 iteracoes 3560 mins approx.
+Level 4 LDA (não foi o melhor porque a quantidade de caracteristicas no level 5 é menor que o tamanho do filtro de wavelet)
+
+ORL 1296 iteracoes 
+level 2 PCA LDA
+
+
+ORL 2500 iteracoes 4003 mins approx
+level 2 PCA LDA
+
+
+Essex 576 iterações 5964 mins approx
+Level 5 PCA LDA
+
+AR 576 iterações 15323 mins approx
+Level 3 LDA

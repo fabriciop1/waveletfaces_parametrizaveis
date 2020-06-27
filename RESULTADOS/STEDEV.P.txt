@@ -1,0 +1,3 @@
+funcao do excel usada
+STEDEV.P
+AVERAGE
